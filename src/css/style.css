@@ -24,6 +24,8 @@ body {
 .container .principal {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 45px;
     width: 100%;
     height: auto;
@@ -41,11 +43,13 @@ margin-left: 45px;
     font-size: 40px;
     font-weight: 600;
     padding-bottom: 25px;
+
 }
 .container .principal p {
     font-size: 18px;
     padding-bottom: 24px;
     color: antiquewhite;
+
 }
 .container .principal .bnt {
     background-color: rgb(194, 199, 197);

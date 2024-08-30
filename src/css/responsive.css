@@ -37,6 +37,7 @@
             max-width: 390px;
             height: auto;
             margin: 0 auto;
+            text-align: center;
         }
         .container .principal .bnt {
             display: flex;
