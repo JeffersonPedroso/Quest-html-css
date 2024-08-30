@@ -5,24 +5,27 @@ body {
     background-size: cover;
     background-color: var(--vaiolet);
     font-family: var(--font-body);
+    width: 100%;
 }
 .cabecalho {
     margin:56px 0 10px 56px;
 }
 .cabecalho img {
     max-width: 270px;
-    height: 100%;
+    height: auto;
 
 }
 .container {
     display: flex;
     align-items: center;
     max-width: 90%;
+    height: auto;
 }
 .container .principal {
     display: flex;
     flex-direction: column;
     margin: 45px;
+    width: 80%;
 }
 .container img {
 max-width: 75%;
