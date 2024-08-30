@@ -24,7 +24,6 @@ body {
 .container .principal {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     margin: 45px;
     width: 100%;
@@ -67,7 +66,7 @@ margin-left: 45px;
     background-color: var(--Soft-Magenta);
 }
 .footer{
-    max-width: 90%;
+    max-width: 100%;
     display: flex;
     justify-content: flex-end;
     margin-right: 10px;
