@@ -26,7 +26,7 @@ body {
     flex-direction: column;
     width: 100%;
     height: auto;
-    justify-content: center;
+    justify-content: left;
     padding-left: 20px;
     margin-left: 20px;
 }
@@ -41,6 +41,7 @@ margin-left: 45px;
     color: antiquewhite;
     font-family: var(--font-Headings);
     font-size: 40px;
+    max-width: 500px;
     font-weight: 600;
     padding-bottom: 25px;
     text-align: center;
