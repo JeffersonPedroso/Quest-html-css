@@ -29,7 +29,7 @@ body {
     height: auto;
 }
 .container img {
-max-width: 75%;
+max-width: 100%;
 height: auto;
 margin-left: 45px;
 }
@@ -40,11 +40,9 @@ margin-left: 45px;
     font-family: var(--font-Headings);
     font-size: 40px;
     font-weight: 600;
-    max-width: 500px;
     padding-bottom: 25px;
 }
 .container .principal p {
-    width:520px;
     font-size: 18px;
     padding-bottom: 24px;
     color: antiquewhite;
@@ -59,10 +57,10 @@ margin-left: 45px;
     max-width: 225px;
     margin-bottom: 10px;
     box-shadow: 1px 1px 1px 1px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
 }
 .container .principal .bnt:hover {
     background-color: var(--Soft-Magenta);
