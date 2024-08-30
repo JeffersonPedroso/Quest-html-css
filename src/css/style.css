@@ -26,6 +26,7 @@ body {
     flex-direction: column;
     width: 100%;
     height: auto;
+    padding-left: 20px;
 }
 .container img {
 max-width: 80%;
@@ -47,7 +48,6 @@ margin-left: 45px;
     padding-bottom: 24px;
     color: antiquewhite;
     text-align: center;
-
 }
 .container .principal .bnt {
     background-color: rgb(194, 199, 197);
@@ -59,10 +59,10 @@ margin-left: 45px;
     max-width: 225px;
     margin-bottom: 10px;
     box-shadow: 1px 1px 1px 1px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
 }
 .container .principal .bnt:hover {
     background-color: var(--Soft-Magenta);
