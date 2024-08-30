@@ -5,7 +5,7 @@ body {
     background-size: cover;
     background-color: var(--vaiolet);
     font-family: var(--font-body);
-    width: 100%;
+    max-width: 1080px;
 }
 .cabecalho {
     margin:56px 0 10px 56px;
@@ -74,7 +74,6 @@ margin-left: 45px;
     justify-content: flex-end;
     margin-right: 10px;
     margin-bottom: 20px;
-   max-width: 100vh;
 }
 .footer a {
     width: auto;
