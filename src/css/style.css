@@ -74,7 +74,7 @@ margin-left: 45px;
     justify-content: flex-end;
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 100%;
+   max-width: 100vh;
 }
 .footer a {
     width: auto;
