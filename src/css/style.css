@@ -25,7 +25,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 45px;
     width: 100%;
     height: auto;
 }
@@ -61,6 +60,10 @@ margin-left: 45px;
     margin-bottom: 10px;
     box-shadow: 1px 1px 1px 1px;
     justify-content: flex-start;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 .container .principal .bnt:hover {
     background-color: var(--Soft-Magenta);
