@@ -32,7 +32,7 @@
 }
 @media (max-width: 768px) {
    body {
-    background-image: url(/Quest-html-css/images/bg-mobile.svg);
+    background-image: url(/Quest-html-css/src/images/bg-mobile.svg);
     background-position: left  bottom 300px;
    }
    .cabecalho {
